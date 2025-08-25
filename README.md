@@ -16,10 +16,10 @@
 ---
 
 ## About
-I’m a **Computer Science and Computational Mathematics double major** at Brooklyn College, with minors in Data Science and Statistics (GPA: 3.9).  
+I’m a **Computer Science and Computational Mathematics double major** at Brooklyn College, with minors in Data Science and Statistics.  
 Passionate about **machine learning, data science, and quantitative research**, I’ve gained experience at **Microsoft Research (DS3)**, **KPMG AI Studio**, and **Uber Career Prep**.  
 
-💡 **Fun Fact:** I drink way too much tea while coding — it’s basically my debugging fuel. 
+💡 **Fun Fact:** I drink way too much tea while coding, it’s basically my debugging fuel. 
 
 ---
 
