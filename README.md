@@ -1,6 +1,6 @@
 # Hi, I’m Alou Kone 👋
 
-![Profile Photo](assets/photo.jpg)
+![Profile Photo](assets/photo.png)
 
 I’m a **Computer Science and Computational Mathematics double major** at Brooklyn College, with minors in Data Science and Statistics (GPA: 3.9).  
 Passionate about **machine learning, data science, and quantitative development**, I’ve gained experience at **Microsoft Research (DS3)**, **KPMG AI Studio**, and **CUNY Tech Prep**.  
