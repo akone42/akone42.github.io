@@ -1,6 +1,7 @@
 # Hi, I’m Alou Kone
 
 <img src="assets/photo.png" alt="Profile Photo" width="150" style="border-radius:50%;">
+
 ---
 
 ### Quick links
