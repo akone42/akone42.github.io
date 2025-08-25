@@ -1,7 +1,7 @@
 # Hi, I’m Alou Kone
 
 <img src="assets/photo.png" alt="Profile Photo" width="150" style="border-radius:50%;">
-
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40">](https://www.linkedin.com/in/alou-kone)
 ---
 
 ### Quick links
