@@ -1,7 +1,6 @@
 # Hi, I’m Alou Kone
 
 <img src="assets/photo.png" alt="Profile Photo" width="150" style="border-radius:50%;">
-[View my LinkedIn Profile](https://www.linkedin.com/in/alou-kone)
 ---
 
 ### Quick links
@@ -10,7 +9,8 @@
 - [Skills](#️-skills)  
 - [Projects](#-featured-projects)  
 - [Experience](#-experience)  
-- [Resume](assets/Alou_Kone_Resume.pdf)  
+- [Resume](assets/Alou_Kone_Resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/alou-kone)    
 - [Contact](mailto:konealoubadra@gmail.com)  
 
 ---
